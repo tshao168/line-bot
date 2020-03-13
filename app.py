@@ -42,7 +42,7 @@ def handle_message(event):
 
     if msg == 'hi':
         r = 'hi'
-    elif msg == '你吃飯了嗎?' :
+    elif msg == '吃飯了嗎' :
         r = '還沒'
     else :
         r = '看不懂'
